@@ -1,3 +1,5 @@
 {
-    "run_list": null
+    "run_list": [
+        "recipe[1password]"
+    ]
 }
