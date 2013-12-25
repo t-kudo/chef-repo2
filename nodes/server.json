@@ -2,8 +2,6 @@
     "run_list": [
         "recipe[git]",
         "recipe[mysql]",
-        "recipe[nginx]",
-        "recipe[1password]",
-        "recipe[7-zip]"
+        "recipe[nginx]"
     ]
 }
